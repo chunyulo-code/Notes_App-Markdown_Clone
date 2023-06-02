@@ -28,7 +28,7 @@ To delete a note, click on the note in the list of notes. The note's content wil
 
 ## Running the App
 
-To play the game, follow this [Notes App - Markdown Clone](hathon-notes-app.netlify.app).
+To play the game, follow this [Notes App - Markdown Clone](https://hathon-notes-app.netlify.app).
 
 ## Technologies Used
 
